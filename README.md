@@ -12,7 +12,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@mlcaesar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mlcaesar)](https://twitter.com/mlcaesar) [![Linkedin Badge](https://img.shields.io/badge/-mlcaesar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-caesar-875b6a17/) [![Mail Badge](https://img.shields.io/badge/-@mlcaesasr-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/marlon_caesar/) [![Mail Badge](https://img.shields.io/badge/-mlcaesar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mcaesar@lennxtech.com)
 
 
-- 🤔 Turning known unknows to knowns!
+- 🤔 Turning known unknowns to knowns!
 - 😄 Excited about: Blockchain technology 
 - ⚡ Ambitious Goals: Training the next generation of IT Automation Engineeers!
 <br />

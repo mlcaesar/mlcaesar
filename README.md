@@ -13,7 +13,7 @@
 
 
 - 🤔 Turning known unknowns to knowns!
-- 😄 Excited about: Blockchain technology 
+- 😄 Excited about: Blockchain technology, AI and Automation
 - ⚡ Ambitious Goals: Training the next generation of IT Automation Engineeers!
 <br />
 
